@@ -7,6 +7,7 @@ const Success = () => {
       <h1>Giriş Başarılı!</h1>
       <p>Hoşgeldiniz.</p>
     </div>
+    
   );
 };
 
